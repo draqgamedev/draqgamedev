@@ -2,7 +2,18 @@
 
 <h3 align="left">Unity Game Programmer and Designer🌟.</h3>
 <div>
-<img src = https://komarev.com/ghpvc/?username=draqsvag>
+<img src = https://img.shields.io/badge/Discord-%23Draq2016-blue?style=flat>
+<img src = https://img.shields.io/badge/Focus-Game_Design-blue?style=flat>
+</div>
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/2512lxmusy87dc41u4btvka8x">
+
+<img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+
+</a>
+
 </div>
 
 <br/>
@@ -23,7 +34,7 @@
   </p>
 </div>
 
-<br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 <h2 align="left" >Languages and Tools</h2>
 
