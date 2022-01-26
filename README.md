@@ -13,17 +13,17 @@
 <br/>
 <h2 align=left>📈 Statistical Data</h2>
 
-<div align=left>
-  <img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=500>
+<div>
+  <p>
+    <img align="left" src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=400>
+  </p>
+  
+  <p>
+    <img align="right" src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=400>
+  </p>
 </div>
 
-</br>
-
-<div align=left>
-  <img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=500>
-</div>
-
-<br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 <h2 align="left" >Languages and Tools</h2>
 
