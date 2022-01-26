@@ -7,27 +7,27 @@
 
 <br/>
 
-<h2 align="center">💻 What Am I Working On</h2>
+<h2 align="left">💻 What Am I Working On</h2>
 
 - 🌱 I’m currently learning game design and cloning some popular games
 <br/>
-<h2 align=center>📈 Statistical Data</h2>
+<h2 align=left>📈 Statistical Data</h2>
 
-<div align=center>
+<div align=left>
   <img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=500>
 </div>
 
 </br>
 
-<div align=center>
+<div align=left>
   <img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=500>
 </div>
 
 <br/>
 
-<h2 align="center" >Languages and Tools</h2>
+<h2 align="left" >Languages and Tools</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://unity.com" target="blank">
     <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="40"/></a>
 <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="blank">
@@ -40,15 +40,14 @@
 
 <br/>
 
-<h2 align="center"> 📫 How To Reach Me: </h2>
+<h2 align="left"> 📫 How To Reach Me: </h2>
 
 - Discord: Draq#2016
 - Email: draqgamedev@gmail.com
 
-
 <br/>
 
-<h2 align="center"> ⚡ Fun fact </h2>
+<h2 align="left"> ⚡ Fun fact </h2>
 
 - I can do a kickflip
 - I'm an addict to juicy feeling games
