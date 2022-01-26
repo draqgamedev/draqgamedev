@@ -11,7 +11,7 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-%23Draq2016-282828?style=for-the-badge&logo=discord&logoColor=dbdbdb&labelColor=282828">
-  <img src="https://img.shields.io/badge/-%23Draq2016-ff540a?style=for-the-badge&logo=reddit&logoColor=f7f7f7&labelColor=ff540a">
+  <img src="https://img.shields.io/badge/-u%2FDraqSvag-ff540a?style=for-the-badge&logo=reddit&logoColor=f7f7f7&labelColor=ff540a">
 </div>
 </p>
 
