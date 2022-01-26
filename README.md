@@ -28,15 +28,12 @@
 <br/>
 <h2 align=left>📈 Statistical Data</h2>
 <div float="left" align="center">
-<img src="https://monophy.com/media/TEoDVGVtRaPIrW9ciN/monophy.gif" width=100>
 <img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=350>
-<img src="https://monophy.com/media/TEoDVGVtRaPIrW9ciN/monophy.gif" width=100>
-</div>
-
-<div float="left" align="center">
-<img src="https://monophy.com/media/TEoDVGVtRaPIrW9ciN/monophy.gif" width=100>
 <img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=350>
-<img src="https://monophy.com/media/TEoDVGVtRaPIrW9ciN/monophy.gif" width=100>
+</div>
+<div float="left" align="center">
+<img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=350>
+<img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=350>
 </div>
 
 <br/>
