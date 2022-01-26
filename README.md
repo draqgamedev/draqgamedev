@@ -11,7 +11,9 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-%23Draq2016-738adb?style=for-the-badge&logo=discord&logoColor=dbdbdb&labelColor=738adb">
-  <img src="https://img.shields.io/badge/-u%2FDraqSvag-ff540a?style=for-the-badge&logo=reddit&logoColor=f7f7f7&labelColor=ff540a">
+  <a target="_blank" href=https://www.reddit.com/user/DraqSvag>
+    <img src="https://img.shields.io/badge/-u%2FDraqSvag-ff540a?style=for-the-badge&logo=reddit&logoColor=f7f7f7&labelColor=ff540a">
+    </a>
 </div>
 </p>
 
