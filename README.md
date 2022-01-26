@@ -31,10 +31,6 @@
 <img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=350>
 <img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=350>
 </div>
-<div float="left" align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=350>
-<img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=350>
-</div>
 
 <br/>
 
@@ -42,16 +38,25 @@
 
 <p align="left">
 <a href="https://unity.com" target="blank">
-    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="40"/></a>
+    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="35"/></a>
   
 <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" width="40"/></a> 
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" width="35"/></a> 
   
 <a href="https://www.blender.org" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="40"/></a> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="38"/></a> 
   
 <a href="https://www.adobe.com/tr/products/photoshop.html" target="blank">
-    <img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_-400x400.png" alt="Adobe Photoshop" width="40"/></a> 
+    <img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_-400x400.png" alt="Adobe Photoshop" width="38"/></a> 
+ 
+<a href="https://www.python.org" target="blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="38"/></a> 
+  
+<a href="https://www.w3schools.com/html/" target="blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/html5_18891.png" alt="HTML5" width="40"/></a> 
+  
+<a href="https://www.w3schools.com/css/default.asp" target="blank">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40"/></a> 
 </p>
 
 <br/>
@@ -66,6 +71,5 @@
 <h2 align="left"> ⚡ Fun fact </h2>
 
 - I can do a kickflip
-- I'm an addict to juicy feeling games
 
 <h2></h2>
