@@ -18,7 +18,7 @@
     </a>
 </div>
 
-<h3 align="left">Unity Game Programmer and Designer🌟</h3>
+<h3 align="center">🌟Unity Game Programmer and Designer🌟</h3>
 
 <br/>
 
