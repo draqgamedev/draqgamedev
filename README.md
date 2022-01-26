@@ -1,16 +1,7 @@
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Draq</h1>
 
 <h3 align="left">Unity Game Programmer and Designer🌟.</h3>
 <div>
-<img src = https://komarev.com/ghpvc/?username=draqsvag>
-<img src = https://komarev.com/ghpvc/?username=draqsvag>
-<img src = https://komarev.com/ghpvc/?username=draqsvag>
-<img src = https://komarev.com/ghpvc/?username=draqsvag>
 <img src = https://komarev.com/ghpvc/?username=draqsvag>
 </div>
 
