@@ -1,4 +1,4 @@
- <p> <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=40> Hi! I'm Draq</h1> </p>
+ <p> <h1 align="center">Welcome</h1> </p>
  
  <div align="center">
   <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/">
@@ -64,12 +64,5 @@
 <h2 align="left"> 📫 How To Reach Me: </h2>
 
 - Discord: Draq#2016
+- Reddit: u/DraqSvag
 - Email: draqgamedev@gmail.com
-
-<br/>
-
-<h2 align="left"> ⚡ Fun fact </h2>
-
-- I can do a kickflip
-
-<h2></h2>
