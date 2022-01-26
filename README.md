@@ -3,7 +3,10 @@
 <h3 align="left">Unity Game Programmer and Designer🌟.</h3>
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-CSharp-7c4eb5?style=for-the-badge&logo=csharp&logoColor=dbdbdb&labelColor=7c4eb5">
+  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="blank">
+    <img src="https://img.shields.io/badge/-CSharp-7c4eb5?style=for-the-badge&logo=csharp&logoColor=dbdbdb&labelColor=7c4eb5">
+  </a>
+  
   <img src="https://img.shields.io/badge/-Unity-282828?style=for-the-badge&logo=unity&logoColor=dbdbdb&labelColor=282828">
   <img src="https://img.shields.io/badge/-Game Design-8e88ba?style=for-the-badge&logo=youtubegaming&logoColor=dbdbdb&labelColor=8e88ba">
 </div>
@@ -11,7 +14,7 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-%23Draq2016-738adb?style=for-the-badge&logo=discord&logoColor=dbdbdb&labelColor=738adb">
-  <a target="_blank" href=https://www.reddit.com/user/DraqSvag>
+  <a href=https://www.reddit.com/user/DraqSvag>
     <img src="https://img.shields.io/badge/-u%2FDraqSvag-ff540a?style=for-the-badge&logo=reddit&logoColor=f7f7f7&labelColor=ff540a">
     </a>
 </div>
