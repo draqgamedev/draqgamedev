@@ -3,12 +3,17 @@
 <h3 align="left">Unity Game Programmer and Designer🌟.</h3>
 <p>
 <div align="center">
-  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="blank">
+  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/-CSharp-7c4eb5?style=for-the-badge&logo=csharp&logoColor=dbdbdb&labelColor=7c4eb5">
   </a>
   
-  <img src="https://img.shields.io/badge/-Unity-282828?style=for-the-badge&logo=unity&logoColor=dbdbdb&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Game Design-8e88ba?style=for-the-badge&logo=youtubegaming&logoColor=dbdbdb&labelColor=8e88ba">
+  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/-Unity-282828?style=for-the-badge&logo=unity&logoColor=dbdbdb&labelColor=282828">
+  </a>
+  
+  <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/-Game Design-8e88ba?style=for-the-badge&logo=youtubegaming&logoColor=dbdbdb&labelColor=8e88ba">
+  </a>
 </div>
 </p>
 <p>
