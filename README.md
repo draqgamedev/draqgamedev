@@ -24,7 +24,7 @@
 
 <h2 align="left">💻 What Am I Working On</h2>
 
-- 🌱 I’m currently learning game design and cloning some popular games
+- 🍓 I’m currently work on improve my game design skills
 <br/>
 <h2 align=left>📈 Statistical Data</h2>
 <div float="left" align="center">
@@ -47,7 +47,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="38"/></a> 
   
 <a href="https://www.adobe.com/tr/products/photoshop.html" target="blank">
-    <img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_-400x400.png" alt="Adobe Photoshop" width="38"/></a> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="38"/></a> 
  
 <a href="https://www.python.org" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="38"/></a> 
