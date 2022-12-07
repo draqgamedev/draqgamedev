@@ -12,25 +12,17 @@
   <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/-Game Design-8e88ba?style=for-the-badge&logo=youtubegaming&logoColor=dbdbdb&labelColor=8e88ba">
   </a>
-  
-  <a href=https://www.reddit.com/user/DraqSvag>
-    <img src="https://img.shields.io/badge/-u%2FDraqSvag-ff540a?style=for-the-badge&logo=reddit&logoColor=f7f7f7&labelColor=ff540a">
-    </a>
+
 </div>
 
-<h3 align="center">🌟Unity Game Programmer and Designer🌟</h3>
+<h3 align="center">🌟Unity Game Developer and Designer🌟</h3>
 
 <br/>
 
 <h2 align="left">💻 What Am I Working On</h2>
 
 - 🍓 I’m currently work on improve my game design skills
-<br/>
-<h2 align=left>📈 Statistical Data</h2>
-<div float="left" align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=draqsvag&show_icons=true&theme=tokyonight width=350>
-<img src=https://github-readme-streak-stats.herokuapp.com?user=draqsvag&theme=tokyonight&date_format=j%20M%5B%20Y%5D width=350>
-</div>
+
 
 <br/>
 
@@ -64,5 +56,6 @@
 <h2 align="left"> 📫 How To Reach Me: </h2>
 
 - Discord: Draq#2016
-- Reddit: u/DraqSvag
+- Reddit: u/draqgamedev
 - Email: draqgamedev@gmail.com
+- More: https://linktr.ee/draqgamedev
