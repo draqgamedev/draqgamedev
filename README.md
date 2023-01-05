@@ -55,7 +55,6 @@
 
 <h2 align="left"> 📫 How To Reach Me: </h2>
 
-- Discord: Draq#2016
-- Reddit: u/draqgamedev
-- Email: draqgamedev@gmail.com
-- More: https://linktr.ee/draqgamedev
+- Discord: Notchurnal#9999
+- Email: norchurnal@gmail.com
+- More: https://linktr.ee/notchurnal
